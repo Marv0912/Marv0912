@@ -1,10 +1,16 @@
-Hello, my name is Marvin Fajardo
-I am currently an Adobe Digital Academy Scholar
+👋 Hi, I'm Marvin!
 
-I’m interested in web development, mobile development, and cloud technologies
-I’m currently learning web development
+🚀 I am a software engineer passionate about creating innovative solutions and building impactful applications. I recently graduated from General Assembly's Software Engineering Immersive program, where I honed my skills in full-stack web development.
 
-How to reach me: marvin.fajardo.s@icloud.com
+💼 Currently, I am excited to be interning at Adobe in the position of SWE Adobe Video Cloud Intern, where I am contributing to the development of Adobe's video solutions.
+
+🌱 I am constantly learning and exploring new technologies to expand my knowledge and enhance my coding abilities. My interests lie in web development, software architecture, and creating seamless user experiences.
+
+📫 Let's connect! Feel free to reach out to me on LinkedIn [[Here!](https://www.linkedin.com/in/marvin-fajardo-santos/)]. I'm always open to new opportunities and collaborations.
+
+🌐 Check out my portfolio (In works!) to see some of my projects and get to know more about my work.
+
+Happy coding! 😄
 
 <!---
 Marv0912/Marv0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
