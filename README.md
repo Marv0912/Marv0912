@@ -2,7 +2,7 @@
 
 🚀 I am a software engineer passionate about creating innovative solutions and building impactful applications. I recently graduated from General Assembly's Software Engineering Immersive program, where I honed my skills in full-stack web development.
 
-💼 Currently, I am excited to be interning at Adobe in the position of SWE Adobe Video Cloud Intern, where I am contributing to the development of Adobe's video solutions.
+💼 I worked at Adobe in the position of SWE Adobe Video Cloud Intern, where I am contributing to the development of Adobe's video solutions.
 
 🌱 I am constantly learning and exploring new technologies to expand my knowledge and enhance my coding abilities. My interests lie in web development, software architecture, and creating seamless user experiences.
 
